@@ -11,7 +11,7 @@ The CyberBar Mystery Box is the Funko Pop Mystery Box. (They have Game of Throne
 
 The Regular box contains food and other store-bought items, the Funko Pop box contains the Funko Pops included in the README and Images folder (GoT and Harry Potter), the rare box contains special limited-edition action figures, and the Illegal box has several guns within. All of these can be changes in the config.lua as well as more items can be added to it so that more items are given from each box.
 
-# Where to find me
+# Where to find Qb-Mystery Boxes and other DoW products
 
 Link to Tebex Store for purchase - https://dow-dog-house.tebex.io/package/5300132
 
